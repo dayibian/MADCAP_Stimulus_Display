@@ -1,0 +1,19 @@
+13:30:52:0 session_start N/A False
+13:31:0:295 start_stimulus nonnative_low_1 True
+13:31:51:263 end_stimulus N/A False
+13:32:6:276 start_stimulus nonnative_low_2 False
+13:32:57:222 end_stimulus N/A False
+13:33:16:610 start_stimulus native_low_1 True
+13:34:7:45 end_stimulus N/A False
+13:34:22:59 start_stimulus native_low_2 False
+13:35:12:491 end_stimulus N/A False
+13:35:31:891 start_stimulus native_low_async_1 True
+13:36:22:329 end_stimulus N/A False
+13:36:37:341 start_stimulus native_low_async_2 False
+13:37:27:773 end_stimulus N/A False
+13:37:27:777 session_end N/A False
+
+Participant name: Dayi
+Participate date: 8/17/2016 12:00:00 AM
+
+Stimuli order is: 2 3 0 1 4 5 

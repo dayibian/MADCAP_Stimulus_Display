@@ -1,0 +1,19 @@
+13:7:17:28 session_start N/A False
+13:7:28:3 start_stimulus nonnative_low_1 True
+13:8:18:953 end_stimulus N/A False
+13:8:33:969 start_stimulus nonnative_low_2 False
+13:9:24:938 end_stimulus N/A False
+13:9:44:321 start_stimulus native_low_1 True
+13:10:34:755 end_stimulus N/A False
+13:10:49:771 start_stimulus native_low_2 False
+13:11:40:206 end_stimulus N/A False
+13:11:59:590 start_stimulus native_low_async_1 True
+13:12:50:25 end_stimulus N/A False
+13:13:5:42 start_stimulus native_low_async_2 False
+13:13:55:476 end_stimulus N/A False
+13:13:55:480 session_end N/A False
+
+Participant name: TEST
+Participate date: 10/27/2016 12:00:00 AM
+
+Stimuli order is: 2 3 0 1 4 5 

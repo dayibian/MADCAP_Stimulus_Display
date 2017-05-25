@@ -1,0 +1,6 @@
+15:46:44:588 session_start N/A False
+15:46:59:271 start_stimulus nonnative_low_1 True
+15:47:50:219 end_stimulus N/A False
+15:48:32:403 start_stimulus native_low_1 True
+15:49:22:838 end_stimulus N/A False
+15:50:4:921 start_stimulus nonnative_low_2 False

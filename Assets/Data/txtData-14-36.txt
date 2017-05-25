@@ -1,0 +1,7 @@
+14:36:18:830 session_start N/A False
+14:36:28:65 start_stimulus TestVideo10 False
+14:36:33:376 end_stimulus N/A False
+14:36:38:402 start_stimulus TestVideo8 False
+14:36:43:726 end_stimulus N/A False
+14:37:16:124 start_stimulus TestVideo9 True
+14:37:21:479 end_stimulus N/A False

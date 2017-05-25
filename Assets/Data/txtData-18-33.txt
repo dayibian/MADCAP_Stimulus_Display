@@ -1,0 +1,2 @@
+18:33:47:435 session_start N/A False
+18:33:54:282 start_stimulus nonnative_low True

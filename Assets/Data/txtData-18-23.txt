@@ -1,0 +1,19 @@
+18:23:43:608 session_start N/A False
+18:23:47:635 start_stimulus TestVideo3 True
+18:23:52:964 end_stimulus N/A False
+18:23:57:988 start_stimulus TestVideo2 False
+18:24:3:298 end_stimulus N/A False
+18:24:8:408 start_stimulus TestVideo1 True
+18:24:13:741 end_stimulus N/A False
+18:24:18:752 start_stimulus TestVideo4 False
+18:24:24:87 end_stimulus N/A False
+18:24:29:128 start_stimulus TestVideo5 True
+18:24:34:470 end_stimulus N/A False
+18:24:39:482 start_stimulus TestVideo6 False
+18:24:44:798 end_stimulus N/A False
+18:24:44:817 session_end N/A False
+
+Participant name: test
+Participate date: 6/15/2016 12:00:00 AM
+
+Stimuli order is: 2 1 0 3 4 5 

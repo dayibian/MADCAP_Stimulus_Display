@@ -1,0 +1,19 @@
+15:59:27:572 session_start N/A False
+15:59:31:615 start_stimulus native_low_2 False
+16:0:22:46 end_stimulus N/A False
+16:0:41:490 start_stimulus nonnative_low_1 True
+16:1:32:441 end_stimulus N/A False
+16:1:47:449 start_stimulus nonnative_low_2 False
+16:2:38:391 end_stimulus N/A False
+16:2:57:788 start_stimulus native_low_1 True
+16:3:48:223 end_stimulus N/A False
+16:4:7:620 start_stimulus native_low_async_1 True
+16:4:58:55 end_stimulus N/A False
+16:5:13:70 start_stimulus native_low_async_2 False
+16:6:3:502 end_stimulus N/A False
+16:6:3:506 session_end N/A False
+
+Participant name: Maya
+Participate date: 8/30/2016 12:00:00 AM
+
+Stimuli order is: 1 2 3 0 4 5 

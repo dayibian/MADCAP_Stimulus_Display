@@ -1,0 +1,3 @@
+11:33:14:143 session_start N/A False
+11:33:23:194 start_stimulus native_low_2 False
+11:34:13:596 end_stimulus N/A False
